@@ -1,6 +1,6 @@
 -a --author
 
--f<filename> --file=<filename>
+-f--file
   
 -n --n
 
